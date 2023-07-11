@@ -1,11 +1,5 @@
 # FOOD BLOG PROJECT
 
-## Description
-Food Blog is my final project in HTML & CSS section (inside Front-end Development course) with instruction of [Mr. Hau Nguyen](https://github.com/paulnguyen-mn) at [Nordic Coder School](https://nordiccoder.com/).
-
-![Food Blog banner](images/food-blog-banner.png)
-*Food Blog*
-
 ## Build with 
 
 - `HTML5`
@@ -33,4 +27,3 @@ Food Blog is my final project in HTML & CSS section (inside Front-end Developmen
 
 And many things ...
 
-**[Go to Food Blog](https://food-blog.vercel.app)**
